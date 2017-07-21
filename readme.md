@@ -1,27 +1,35 @@
-#网络爬虫 抓取文章
+<h1>网络爬虫 抓取文章</h1>
 
-##环境准备
-###1、安装node、npm
-https://nodejs.org/en/download/
+<h2>环境准备</h2>
 
-###2、安装msql数据库
-https://www.mysql.com/downloads/
+<h3>1、安装node、npm</h3>
 
-备注：建议采用集成工具WAMP
+<p><a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a></p>
 
-##步骤
-###1、检出项目
-git clone https://github.com/benpaobenpao/book.git
+<h3>2、安装msql数据库</h3>
 
-###2、安装依赖包
-npm install
+<p><a href="https://www.mysql.com/downloads/">https://www.mysql.com/downloads/</a></p>
 
-###3、安装全局依赖包
-npm install -g nodemon
+<p>备注：建议采用集成工具WAMP</p>
 
-###4、sql 文件夹，包含了数据库表
+<h2>步骤</h2>
 
-###5、conf 文件夹，配置数据库连接参数
+<h3>1、检出项目</h3>
 
-###6、启动项目
-nodemon
+<p>git clone <a href="https://github.com/benpaobenpao/book.git">https://github.com/benpaobenpao/book.git</a></p>
+
+<h3>2、安装依赖包</h3>
+
+<p>npm install</p>
+
+<h3>3、安装全局依赖包</h3>
+
+<p>npm install -g nodemon</p>
+
+<h3>4、sql 文件夹，包含了数据库表</h3>
+
+<h3>5、conf 文件夹，配置数据库连接参数</h3>
+
+<h3>6、启动项目</h3>
+
+<p>nodemon</p>
